@@ -2,4 +2,4 @@
 .vscode/
 Developing/
 .pytest_cache
-
+.idea
